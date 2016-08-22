@@ -15,13 +15,13 @@ your option) any later version.
 
 # part2 
 ring has 4 components
-1. handler
-1. middleware
-1. request map
-1. response map
+1. handler  
+1. middleware  
+1. request map  
+1. response map  
 
-ring has one more component named adapter,
-but basically, user do not have to care about it so ommitted.
+ring には adapter というコンポーネントもありますが、  
+ユーザーがあんまり意識するようなものでもないので省いてある
 
 
 # part3
