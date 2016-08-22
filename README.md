@@ -22,3 +22,8 @@ ring has 4 components
 
 ring has one more component named adapter,
 but basically, user do not have to care about it so ommitted.
+
+
+# part3
+handler を var として渡すと、 ring(jetty?) は動的に handler の実装を利用することができる  
+var を評価して渡すんじゃなくて、 var のまま渡してあげる感じ
