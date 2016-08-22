@@ -14,7 +14,7 @@ Distributed under the Eclipse Public License either version 1.0 or (at
 your option) any later version.
 
 # part2 
-ring has 4 components
+ring has 4 components  
 1. handler  
 1. middleware  
 1. request map  
